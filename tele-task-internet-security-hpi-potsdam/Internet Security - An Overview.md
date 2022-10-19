@@ -145,3 +145,10 @@ The central aim is to prvoide fundamental knowledge about various security weakn
 
 - To evaluate the risks of the Internet and the Internet of Things (IoT).
 - To design and implement security measures to protect against the risks of the Internet and the Internet of Things (IoT).
+
+# Resources
+
+The following are the resources: 
+- [Lecture Video](https://www.tele-task.de/lecture/video/7073/)
+- Professor Dr. Christoph Meinel
+- Notes Author: [@is-it-ayush](https://github.com/is-it-ayush)
