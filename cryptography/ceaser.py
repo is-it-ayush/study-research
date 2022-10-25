@@ -1,7 +1,6 @@
 # Author: is-it-ayush
 # License: MIT
 
-import pwn # pip install pwntools (Not required, but recommended)
 import string
 
 def encrypt(text, key):
